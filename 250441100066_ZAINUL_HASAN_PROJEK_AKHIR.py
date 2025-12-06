@@ -880,4 +880,5 @@ def main():
             print("Pilihan tidak valid."); pause()
 
 if __name__ == "__main__":
+
     main()
